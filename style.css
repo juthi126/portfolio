@@ -1,0 +1,66 @@
+
+#btn{
+    color: aqua;
+}
+
+.hero_img{
+    width: 50%;
+    height:50% ;
+}
+
+.hero{
+    color: brown;
+}
+
+
+@media  (max-width :425px) {
+
+    
+}
+
+
+@media (max-width: 768px) {
+    .protfolio{
+         text-align: right;
+    }
+}
+
+.protfolio{
+    text-align: right;
+}
+
+
+.js{ 
+    background-color: aqua;
+     color: brown;
+}
+
+.juthi{
+    color: blue;
+    float: right;
+
+}
+
+#button{
+  border-style: solid;
+  border-radius: 7px;
+}
+
+.tithi{
+    float: right
+    
+    
+    ;
+}
+
+
+
+table{
+    border: 1px solid black;
+}
+    .juthi{
+        border: 1px solid black;
+    }
+    .srity{
+        border: 1px solid black;
+    }
